@@ -34,3 +34,12 @@ the diagram the way we do?
 
 It results in adding all commits from one branch to another. Its represented
 this way so its easy to see what commits belong to a particular branch.
+--------------------------------------------------------------------------------
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+Git's automatic merging simplifies some of the no-brainer situations you might
+incur. Manually merging is good for the not-so-obvious tasks, like picking
+which method of doing something is better. It would be tedious to have to
+handle all merge conflicts manually, but some decisions just don't make sense
+for a computer to make.
