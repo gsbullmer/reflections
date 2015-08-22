@@ -22,3 +22,10 @@ organized? How would branches help?
 When expanding new features to an already working project. This protects your
 project from breaking while a work-in-progress is being added. Once the feature
 has been tested and is working, merge it into the master branch.
+How do the diagrams help you visualize the branch structure?
+--------------------------------------------------------------------------------
+
+It allows you to see the relations of the commits and what branch they are
+associated with. This helps with understanding where merges or future branches
+need to happen.
+--------------------------------------------------------------------------------
