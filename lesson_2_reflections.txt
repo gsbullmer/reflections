@@ -29,3 +29,8 @@ It allows you to see the relations of the commits and what branch they are
 associated with. This helps with understanding where merges or future branches
 need to happen.
 --------------------------------------------------------------------------------
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+It results in adding all commits from one branch to another. Its represented
+this way so its easy to see what commits belong to a particular branch.
