@@ -15,3 +15,10 @@ How can you use the staging area to make sure you have one commit per logical
 change?
 
 You can stage only the files that are related to the logical change.
+--------------------------------------------------------------------------------
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+When expanding new features to an already working project. This protects your
+project from breaking while a work-in-progress is being added. Once the feature
+has been tested and is working, merge it into the master branch.
