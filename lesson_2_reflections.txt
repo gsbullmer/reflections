@@ -11,3 +11,7 @@ only those you want to commit. This is important because it allows the user to
 decide what to add to an individual, meaningful commit without being able to
 only work on one change at a time.
 --------------------------------------------------------------------------------
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+You can stage only the files that are related to the logical change.
