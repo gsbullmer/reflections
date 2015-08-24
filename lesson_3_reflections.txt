@@ -21,3 +21,8 @@ GitHub account to another. A clone is a copy of a repository locally, either
 from a remote computer or another local repository. A branch is a copy of a set
 of commits in a single repository up to a certain point.
 --------------------------------------------------------------------------------
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+This allows you to use git diff between the remote and local versions.
+--------------------------------------------------------------------------------
