@@ -26,3 +26,12 @@ stored locally?
 
 This allows you to use git diff between the remote and local versions.
 --------------------------------------------------------------------------------
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+
+One method is using good communication with the team as to who is doing what and
+making sure no one is making changes to the same file. This is easier since
+there are no new commands or skills needed to work this way. Its harder since
+there is no way to roll back to a previous version unless someone else has an
+older version available on their local machine.
+--------------------------------------------------------------------------------
