@@ -35,3 +35,10 @@ there are no new commands or skills needed to work this way. Its harder since
 there is no way to roll back to a previous version unless someone else has an
 older version available on their local machine.
 --------------------------------------------------------------------------------
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+If the master branch is supposed to be the cleanest version of the project,
+making changes in a separate branch keeps it that way. When a change is approved
+by the team and proven working correctly, it can be added to the master branch
+of the project.
